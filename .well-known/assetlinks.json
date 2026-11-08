@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.flaffylu.klowand",
+    "sha256_cert_fingerprints": [
+      "5F:D6:25:57:26:9B:22:92:7D:C3:3D:54:18:C4:0A:80:C3:21:EA:41:5D:B6:AA:8F:A1:CD:A0:8D:21:72:E1:71",
+      "EA:93:A5:53:50:2A:F9:56:F9:62:51:A4:01:D3:2D:25:C6:64:7C:27:AB:F2:1F:8D:B2:9E:73:D2:D5:CF:5D:69"
+    ]
+  }
+}]
